@@ -13,3 +13,5 @@ Ce projet Java illustre la mise en œuvre d'un service web en utilisant l'API Ja
 
 3. **WebServer**
     - La classe principale qui publie `JWS_App` en tant que service web à une adresse spécifiée.
+
+## Captures d'écran
