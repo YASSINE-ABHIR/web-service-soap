@@ -18,9 +18,9 @@ Ce projet Java illustre la mise en œuvre d'un service web en utilisant l'API Ja
 
 ## Captures d'écran
 
-![Demarrage du serveur](./screenshots/Demarrageduserveur.png)
-![WSDL](./screenshots/WSDL.png)
-![Convertion du EUR vers MAD](./screenshots/convertEUR_MAD.png)
+![Demarrage du serveur](./screenshots/1.png)
+![WSDL](./screenshots/2.png)
+![Convertion du EUR vers MAD](./screenshots/3.png)
 ![Methode getCompte](./screenshots/getCompte.png)
 ![Methode listComptes](./screenshots/listComptes.png)
 
