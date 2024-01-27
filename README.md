@@ -1,6 +1,6 @@
 # Projet de Service Web Java (JAX-WS)
 
-## Introduction
+## définition
 
 - SOAP (Simple Object Access Protocol) est un protocole de communication basé sur XML (eXtensible Markup Language) utilisé pour échanger des informations structurées dans le contexte des services web. Les services web sont des applications logicielles qui fournissent des fonctionnalités via Internet. SOAP définit une structure standard pour le format des messages échangés entre les applications, ce qui facilite l'intégration de systèmes hétérogènes.
 
