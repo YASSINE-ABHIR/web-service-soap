@@ -6,14 +6,17 @@
 
 - Un service web basé sur SOAP suit un modèle d'architecture appelé "web service basé sur SOAP". Dans ce modèle, les services exposent leurs fonctionnalités sous la forme de méthodes (ou opérations) accessibles via des protocoles basés sur SOAP. Ces méthodes sont décrites dans un format appelé WSDL (Web Services Description Language), qui spécifie comment les clients peuvent interagir avec le service.
 
-**SOAP : **
-Les messages échangés entre les clients et les services web sont encapsulés dans des enveloppes SOAP. Ces enveloppes définissent la structure des messages, y compris les en-têtes (headers) et les corps (bodies) des messages.
 
-** WSDL (Web Services Description Language) : **
-WSDL est un langage de description qui spécifie les détails du service web, y compris les opérations qu'il expose, les formats des messages attendus et produits, et les protocoles de communication à utiliser.
+   ** SOAP : **
+   Les messages échangés entre les clients et les services web sont encapsulés dans des enveloppes SOAP. Ces enveloppes définissent la structure des messages, y compris les en-têtes (headers) et les corps (bodies) des messages.
 
-**UDDI (Universal Description, Discovery, and Integration) : **
-UDDI est un registre de services web qui permet aux entreprises de publier et de découvrir des services web. Il fournit des mécanismes de découverte pour permettre aux clients de trouver des services web compatibles avec leurs besoins.
+   ** WSDL (Web Services Description Language) : **
+   WSDL est un langage de description qui spécifie les détails du service web, y compris les opérations qu'il expose, les formats des messages attendus et produits, et les protocoles de communication à utiliser.
+
+   ** UDDI (Universal Description, Discovery, and Integration) : **
+   UDDI est un registre de services web qui permet aux entreprises de publier et de découvrir des services web. Il fournit des mécanismes de découverte pour permettre aux clients de trouver des services web compatibles avec leurs besoins.
+
+   `Les services web basés sur SOAP sont souvent utilisés dans des environnements d'entreprise où l'intégration de systèmes distribués est nécessaire. Cependant, avec l'évolution des technologies, d'autres approches comme les services web RESTful (basés sur l'architecture REST) gagnent également en popularité.`
 
 `Les services web basés sur SOAP sont souvent utilisés dans des environnements d'entreprise où l'intégration de systèmes distribués est nécessaire. Cependant, avec l'évolution des technologies, d'autres approches comme les services web RESTful (basés sur l'architecture REST) gagnent également en popularité.`
 
